@@ -1,0 +1,9 @@
+
+('filename:', <_io.TextIOWrapper name='DRR016112.final_Summary_table.csv' mode='r' encoding='UTF-8'>, 'Size-min:', 201, 'Size-max:', 1584, 'Size-mean:', 467.2887323943662, 'Number_of_exons-min:', 1, 'Number_of_exons-max:', 4, 'Number_of_exons-mean:', 1.3591549295774648)
+('filename:', <_io.TextIOWrapper name='final_summary_table.csv' mode='r' encoding='UTF-8'>, 'Size-min:', 207.0, 'Size-max:', 1028.0, 'Size-mean:', 348.5923489697248, 'Number_of_exons-min:', 1.0, 'Number_of_exons-max:', 3.0, 'Number_of_exons-mean:', 1.2776527609449542)
+('filename:', <_io.TextIOWrapper name='DRR016113.final_Summary_table.csv' mode='r' encoding='UTF-8'>, 'Size-min:', 203, 'Size-max:', 1040, 'Size-mean:', 418.43939393939394, 'Number_of_exons-min:', 1, 'Number_of_exons-max:', 4, 'Number_of_exons-mean:', 1.5)
+('filename:', <_io.TextIOWrapper name='DRR016114.final_Summary_table.csv' mode='r' encoding='UTF-8'>, 'Size-min:', 201, 'Size-max:', 201, 'Size-mean:', 201.0, 'Number_of_exons-min:', 1, 'Number_of_exons-max:', 1, 'Number_of_exons-mean:', 1.0)
+('filename:', 'DRR016112.final_Summary_table.csv', 'Size-min:', 201, 'Size-max:', 1584, 'Size-mean:', 467.2887323943662, 'Number_of_exons-min:', 1, 'Number_of_exons-max:', 4, 'Number_of_exons-mean:', 1.3591549295774648)
+('filename:', 'final_summary_table.csv', 'Size-min:', 207.0, 'Size-max:', 1028.0, 'Size-mean:', 348.5923489697248, 'Number_of_exons-min:', 1.0, 'Number_of_exons-max:', 3.0, 'Number_of_exons-mean:', 1.2776527609449542)
+('filename:', 'DRR016113.final_Summary_table.csv', 'Size-min:', 203, 'Size-max:', 1040, 'Size-mean:', 418.43939393939394, 'Number_of_exons-min:', 1, 'Number_of_exons-max:', 4, 'Number_of_exons-mean:', 1.5)
+('filename:', 'DRR016114.final_Summary_table.csv', 'Size-min:', 201, 'Size-max:', 201, 'Size-mean:', 201.0, 'Number_of_exons-min:', 1, 'Number_of_exons-max:', 1, 'Number_of_exons-mean:', 1.0)

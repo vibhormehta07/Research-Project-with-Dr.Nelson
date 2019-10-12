@@ -1,0 +1,1 @@
+Size-min: 201 Size-max: 1584 Size-mean: 467.2887323943662 Number_of_exons-min: 1 Number_of_exons-max: 4 Number_of_exons-mean: 1.3591549295774648
